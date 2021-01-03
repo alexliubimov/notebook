@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.deps.json
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.Data.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\bin\Debug\netcoreapp3.1\BSU.Notes.Data.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Dapper\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Dapper.pdb

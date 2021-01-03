@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BSU.Notes.DataAccess.Interfaces/1.0.0": {
+        "dependencies": {
+          "BSU.Notes.Data": "1.0.0"
+        },
+        "runtime": {
+          "BSU.Notes.DataAccess.Interfaces.dll": {}
+        }
+      },
+      "BSU.Notes.Data/1.0.0": {
+        "runtime": {
+          "BSU.Notes.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSU.Notes.DataAccess.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BSU.Notes.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

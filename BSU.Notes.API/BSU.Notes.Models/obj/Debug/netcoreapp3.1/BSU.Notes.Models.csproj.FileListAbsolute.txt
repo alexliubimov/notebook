@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\bin\Debug\netcoreapp3.1\BSU.Notes.Models.deps.json
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\bin\Debug\netcoreapp3.1\BSU.Notes.Models.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\bin\Debug\netcoreapp3.1\BSU.Notes.Models.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Models\obj\Debug\netcoreapp3.1\BSU.Notes.Models.pdb

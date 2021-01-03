@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.deps.json
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Data.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Data.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.csproj.CopyComplete
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.DataAccess.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.DataAccess.Interfaces.pdb

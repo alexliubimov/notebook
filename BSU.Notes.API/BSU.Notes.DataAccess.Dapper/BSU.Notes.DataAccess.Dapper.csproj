@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Npgsql" Version="5.0.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BSU.Notes.DataAccess.Interfaces\BSU.Notes.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\BSU.Notes.Data\BSU.Notes.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\bin\Debug\netcoreapp3.1\BSU.Notes.Data.deps.json
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\bin\Debug\netcoreapp3.1\BSU.Notes.Data.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\bin\Debug\netcoreapp3.1\BSU.Notes.Data.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Data\obj\Debug\netcoreapp3.1\BSU.Notes.Data.pdb

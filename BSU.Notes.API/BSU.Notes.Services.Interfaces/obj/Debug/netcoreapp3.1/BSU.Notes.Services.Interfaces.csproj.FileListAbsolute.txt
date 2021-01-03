@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.deps.json
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Data.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\bin\Debug\netcoreapp3.1\BSU.Notes.Data.pdb
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.csproj.CopyComplete
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.dll
+C:\Users\Admin\source\repos\BSU.Notes.API\BSU.Notes.Services.Interfaces\obj\Debug\netcoreapp3.1\BSU.Notes.Services.Interfaces.pdb

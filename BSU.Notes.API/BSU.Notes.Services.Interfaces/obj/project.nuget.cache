@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1JIthUMZTNsTSKCl/wNHpMknbuA40uIo8ke981Te4+9nVs4JS3BL4GpdI4P8qRm5IPuv30fOTsvIPCYkDYf4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\BSU.Notes.API\\BSU.Notes.Services.Interfaces\\BSU.Notes.Services.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BSU.Notes.DataAccess.Interfaces\BSU.Notes.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\BSU.Notes.Data\BSU.Notes.Data.csproj" />
+    <ProjectReference Include="..\BSU.Notes.Models\BSU.Notes.Models.csproj" />
+    <ProjectReference Include="..\BSU.Notes.Services.Interfaces\BSU.Notes.Services.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
